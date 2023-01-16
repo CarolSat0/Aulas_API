@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgbO+Hcddn3X4n89V9JD3LFmSX5F1owBlZu5ayymCqu0eiBWJ1tYxUEnZqp3fZnFB8FeW1plx4euQ/PoXRz7HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carolina.sato\\Documents\\API\\SistemasVendas\\SistemasVendas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carolina.sato\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\carolina.sato\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\carolina.sato\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\carolina.sato\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\carolina.sato\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\carolina.sato\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
