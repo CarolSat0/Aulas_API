@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SistemasVendas.DTO;
+using SistemasVendas.Models;
 
 namespace SistemasVendas.Models
 {
@@ -13,5 +15,17 @@ namespace SistemasVendas.Models
         public Vendedor Vendedor { get; set; } //referencia de classe da chave estrangeira
         public int ClienteId { get; set; }
         public Cliente Cliente { get; set; }
+
+        public Pedidos()
+        {
+
+        }
+
+        public Pedidos(CadastrarPedidoDTO dto)
+        {
+            Data = dto.Data;
+            VendedorId = dto.VendedorId;
+            ClienteId = dto.ClienteId;
+        }
     }
 }
